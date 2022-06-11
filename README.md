@@ -12,7 +12,7 @@ With the ever increasing rate in which mass shootings are occurring in the US, w
   
 In order to <b>EXTRACT</b> this information, we created a Jupyter Notebook and used the Pandas library .read_csv() and .read_html() functions to turn our two datasets into dataframes. From there, we <b>TRANSFORMED</b> our data by cleaning up the dataframes by dropping any columns with only null values, eliminating any shooting incident that occured in the previous years (from 2013-2021) from the CSV obtained from the GVA website, and formatting the dates so that they are the same in both DateFrames. This required us to swap out the month names for the numbers, and adding the year to the end of mm/dd format in the Mass_Shootings DataFrame.
 
-We then </b>LOAD</b>ed all of our information into a SQL database using SQL-Alchemy. 
+We then <b>LOAD</b>ed all of our information into a SQL database using SQL-Alchemy. 
 
 In the Schema file, you can find the code used to create the tables needed to load the data. Once the data is loaded, we created an INNER JOIN to see how many children have truly been affected by mass shootings in 2022. 
 
@@ -28,8 +28,8 @@ In the future, maybe we can compare the number of children affected to the rest 
 
 <b>Creators:</b>
 Diandra McNeill
-  LinkedIn: https://www.linkedin.com/in/diandra-mcneill-765410233/
-  GitHub: https://github.com/dmcneill0711/
+  <p>LinkedIn: https://www.linkedin.com/in/diandra-mcneill-765410233/</p>
+  <p>GitHub: https://github.com/dmcneill0711/</p>
 Herman Tucker
-  LinkedIn: http://linkedin.com/in/herman-tucker-2273441b2
-  GitHub: https://github.com/hermantucker12
+  <p>LinkedIn: http://linkedin.com/in/herman-tucker-2273441b2</p>
+  <p>GitHub: https://github.com/hermantucker12</p>
