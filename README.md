@@ -25,8 +25,8 @@ In the Schema file, you can find the code used to create the tables needed to lo
 Our findings revealed to us that children are usually not the target in the recent mass shootings. When we did the join on the incident city AND state, only 27 results (out of a possible 129), populated. This means that children are targeted at a 21% rate (or 20.93% to be exact). This is much lower than what we were expecting. Obviously, we would like for that number to be 0%, but it is impossible to reach without some kind of legal reform.
 
 In the future, maybe we can compare the number of children affected to the rest of the world, and using those results, we can make a change.
-
 <br>
+<hr>
 <b>Creators:</b>
 <p><b>Diandra McNeill</b></p>
   <p>LinkedIn: https://www.linkedin.com/in/diandra-mcneill-765410233/</p>
