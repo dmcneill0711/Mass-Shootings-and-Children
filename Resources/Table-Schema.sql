@@ -8,8 +8,7 @@ State VARCHAR,
 City_or_County VARCHAR,
 Address VARCHAR,
 Number_Killed INT,
-Number_Injured INT,
-Year INT
+Number_Injured INT
 );
 
 
