@@ -17,7 +17,7 @@ We then <b>LOAD</b>ed all of our information into a SQL database using SQL-Alche
 In the Schema file, you can find the code used to create the tables needed to load the data. Once the data is loaded, we created an INNER JOIN to see how many children have truly been affected by mass shootings in 2022. 
 
 <b>Included:</b>
-- The table schemas 
+- The table schemas and SQL code used to join and compare the two tables.
 - The exported CSVs of our cleaned-up dataset for easy input into the database. 
 
 <b>Things You Will Need:</b>
