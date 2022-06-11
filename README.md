@@ -27,9 +27,9 @@ Our findings revealed to us that children are usually not the target in the rece
 In the future, maybe we can compare the number of children affected to the rest of the world, and using those results, we can make a change.
 
 <b>Creators:</b>
-Diandra McNeill
+<p>Diandra McNeill</p>
   <p>LinkedIn: https://www.linkedin.com/in/diandra-mcneill-765410233/</p>
   <p>GitHub: https://github.com/dmcneill0711/</p>
-Herman Tucker
+<p>Herman Tucker</p>
   <p>LinkedIn: http://linkedin.com/in/herman-tucker-2273441b2</p>
   <p>GitHub: https://github.com/hermantucker12</p>
