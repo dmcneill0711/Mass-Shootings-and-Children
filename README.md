@@ -20,6 +20,11 @@ In the Schema file, you can find the code used to create the tables needed to lo
 - The table schemas 
 - The exported CSVs of our cleaned-up dataset for easy input into the database. 
 
+<b>Things You Will Need:</b>
+- Your Postgres Password (you will need to insert it into the code when attempting to make the connection between your Jupyter Notebook and the database)
+
+<hr>
+
 <b>Discussion:</b>
 
 Our findings revealed to us that children are usually not the target in the recent mass shootings. When we did the join on the incident city AND state, only 27 results (out of a possible 129), populated. This means that children are targeted at a 21% rate (or 20.93% to be exact). This is much lower than what we were expecting. Obviously, we would like for that number to be 0%, but it is impossible to reach without some kind of legal reform.
