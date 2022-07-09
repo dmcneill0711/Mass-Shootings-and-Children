@@ -46,8 +46,8 @@ So, To Recap:
 - Maintain the same CSV name and the program will replace the old version with the new version 
 - Changes to the date format is possible, so be on the lookout for that when you upload the new CSV
 
-Thank You,
--Diandra
+<p>Thank You,</p>
+<p>-Diandra</p>
 
 <br>
 <hr>
