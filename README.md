@@ -29,7 +29,26 @@ In the Schema file, you can find the code used to create the tables needed to lo
 
 Our findings revealed to us that children are usually not the target in the recent mass shootings. When we did the join on the incident city AND state, only 27 results (out of a possible 129), populated. This means that children are targeted at a 21% rate (or 20.93% to be exact). This is much lower than what we were expecting. Obviously, we would like for that number to be 0%, but it is impossible to reach without some kind of legal reform.
 
-In the future, maybe we can compare the number of children affected to the rest of the world, and using those results, we can make a change.
+In the future, maybe we can compare the number of children affected to the rest of the world, and using those results, we can try to make a real change.
+<br>
+<hr>
+<b>UPDATE:</b>
+
+This program can now search for and download the most current CSV of children injured or killed in 2022 from the GVA.org website. This allows for the uploaded CSV to match the current dates to the mass shooting in the US reports from the Wikipedia page. With that, came a few formatting issues. I saw the format of the Incident Date column change from the first time we downloaded the CSV (6/6/2022), and hopefully I was able to provide an adequate formatting substitute, just in case it happens again. Also, the first CSV had instances dating all the way back to the group's founding (2013). The last time I checked on and updated this code, they had changed the page to only show the gun violence incidents in 2022, thus automatically eliminating any dates prior. I left in some of the code that limited the dataframe year to 2022, just in case they decided to make changes to the page again.
+
+<b>The Extra Things You Will Need:</b>
+- The current filepath to your Downloads folder.
+- The <i>NEW</i> filepath to wherever you have the Resources folder to this project is located.
+*Make sure you keep the same name as the previous CSV file (so your new filepath will end with "Resources\\Children_Killed.csv"), since this is what you are updating and replacing with the newly downloaded one. This is also how we are going to reference the CSV in the following code.
+
+So, To Recap:
+- Updating Children_Killed.csv to include the most current dates is possible
+- Maintain the same CSV name and the program will replace the old version with the new version 
+- Changes to the date format is possible, so be on the lookout for that when you upload the new CSV
+
+Thank You,
+-Diandra
+
 <br>
 <hr>
 <b>Creators:</b>
