@@ -36,6 +36,8 @@ In the future, maybe we can compare the number of children affected to the rest 
 
 This program can now search for and download the most current CSV of children injured or killed in 2022 from the GVA.org website. This allows for the uploaded CSV to match the current dates to the mass shooting in the US reports from the Wikipedia page. With that, came a few formatting issues. I saw the format of the Incident Date column change from the first time we downloaded the CSV (6/6/2022), and hopefully I was able to provide an adequate formatting substitute, just in case it happens again. Also, the first CSV had instances dating all the way back to the group's founding (2013). The last time I checked on and updated this code, they had changed the page to only show the gun violence incidents in 2022, thus automatically eliminating any dates prior. I left in some of the code that limited the dataframe year to 2022, just in case they decided to make changes to the page again.
 
+![gun](https://user-images.githubusercontent.com/100710958/190201302-5d12707c-1cd0-4c7e-933f-69176b49775e.png)
+
 <b>The Extra Things You Will Need:</b>
 - The current filepath to your Downloads folder.
 - The <i>NEW</i> filepath to wherever you have the Resources folder to this project is located.
